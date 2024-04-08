@@ -2,6 +2,6 @@
 
 $servidor = "localhost";
 $dbusuario = "root";
-$dbsenha = "thiago0806";
+$dbsenha = "";
 $dbname = "cadastro";
 $conn = mysqli_connect($servidor, $dbusuario, $dbsenha, $dbname);
